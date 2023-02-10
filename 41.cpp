@@ -17,7 +17,7 @@ int main() {
     int query;
     cin>>query;
     while(query) {
-        int n;
+        int n;                              //shlok molester
         cin>>n;
         int a,b,c;
         cin>>a>>b>>c;
